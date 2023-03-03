@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Derek Tek
 - 👀 I’m interested in Machine Learning, Web Development, and Software Development
 - 🌱 I’m currently studying a Bachelor's degree in Computer Science at RMIT University 
-- 👨‍💻 Coding languages: Python, Java, HTML, CSS, JavaScript
+- 👨‍💻 Coding languages: Python, Java, C++, HTML, CSS, JavaScript
 - 📫 How to reach me: derektekk@gmail.com
 
 <!---
